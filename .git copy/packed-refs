@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+4f59a42d08410640dd4b9f9d78c63ef3e4d5e1f2 refs/remotes/origin/circuit_learning
+a1a777d486b0fd5d2d3d6b185fb7fab0d9074f20 refs/remotes/origin/competition
+79f526f15179a148d6fd26c26a6d2f45eb758d60 refs/remotes/origin/dev-stl
+679f871f950df724699c4743ac563a074085bd5c refs/remotes/origin/interactive_demo
+b12099f06f4cb18aabd90705bfaa7b6c8a7b0a60 refs/remotes/origin/jaybdub-patch-1
+f8dc38edba9ab27999a05c22eccf87a6d6f44d0f refs/remotes/origin/jetpack_v4.2.1
+07a98fc9bafd0031835d92405a440dae133a7d01 refs/remotes/origin/master
+51755ee734447c2917f7971e9ff210e28b21bb07 refs/remotes/origin/mutli-racecar-platform
+4e883c4b186d262e637f0c1c7d60f58db85f6117 refs/remotes/origin/refactor
+a7de7def416708b489c0e07630b1b942bf6bd996 refs/remotes/origin/v0.0.0
+468e7bfedaae38a69ae238e171029c5481a9aef7 refs/remotes/origin/ws/pro
