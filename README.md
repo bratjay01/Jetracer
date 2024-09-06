@@ -23,8 +23,8 @@ For more information about the project please refer to our detailed project repo
 
 
 <div  align="center">    
-  <img src="https://github.com/bratjay01/Jetracer/blob/main/jetracer_project.jpeg" width="400" />
-  <img src="https://github.com/bratjay01/Jetracer/blob/main/jetracer_project_2.jpeg" width="400" />   
+  <img src="https://github.com/bratjay01/Jetracer/blob/main/jetracer_project.jpeg" width="400" height="400"/>
+  <img src="https://github.com/bratjay01/Jetracer/blob/main/jetracer_project_2.jpeg" width="400" height="400"/>   
 </div>
 
 
