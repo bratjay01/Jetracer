@@ -19,7 +19,7 @@ stacle avoidance using SLAM (Simultaneous Localization and Mapping) and
  avoidance using ROS (Robot Operating System), for that we have implemented
  SLAM using Google Cartographer after a thorough comparison between a lot
  of SLAM implementation methods.
-For more information about the project please refer to our detailed project report Major_project_report_final.pdf (https://github.com/bratjay01/Jetracer/blob/41a5eec14d108b56c4009f8befa218ebf85c5605/Major_project_report_final.pdf)
+For more information about the project please refer to our detailed project report (Major_project_report_final.pdf)
 
 
 
